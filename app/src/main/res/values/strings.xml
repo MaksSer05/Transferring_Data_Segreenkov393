@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Transferring_Data_Sergeenkov</string>
+
+    <string name="activity_1">Activity_1</string>
+    <string name="activity_2">Activity_2</string>
+    <string name="buttonOpenDialog">Open dialog</string>
+    <string name="buttonExit">Exit</string>
+    <string name="buttonOk">Ok</string>
+    <string name="buttonCancel">Cancel</string>
+
+
+
+</resources>
